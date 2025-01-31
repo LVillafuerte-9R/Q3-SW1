@@ -1,0 +1,14 @@
+body {
+	background-color: skyblue;
+}
+
+.container {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.footer {
+	background-color: powderblue;
+	color: black;
+	text-align: center;
